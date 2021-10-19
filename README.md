@@ -7,6 +7,7 @@ Nesse material contém:
 - (Componentes visuais) Semantic - Documentação: https://semantic-ui.com/
 - (Componentes visuais) Font Awesome - Documentação: https://fontawesome.com/
 - (Componentes visuais) Google Fonts Icons - Documentação: https://fonts.google.com/icons
+- (Componentes visauis) Tailwind UI CSS - Documentação: https://tailwindui.com/ - https://tailwindcss.com/
 - (Biblioteca Build Tool) Snowpack - Documentação: https://www.snowpack.dev/
 
 Para começar a utilização do Kit, é necessário rodar dentro do endereço da pasta o comando [npm install -g] para efetuar o download de todas as bibliotecas necessárias para rodar localmente.
